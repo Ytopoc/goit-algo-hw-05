@@ -1,3 +1,5 @@
+[**English**](README.md) | [Українська](README.uk.md)
+
 # Python - Closures, Generators, Decorators
 
 Three small exercises covering core Python idioms.
